@@ -1,5 +1,3 @@
-# US-Healthcare-Analytics (End-to-End-Project)
-
 # US Healthcare Analytics: End-to-End Data Analytics Project
 
 ## Project Overview
